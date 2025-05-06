@@ -1,2 +1,3 @@
 # Conditional_logic
 PYT101 Conditional logic assignments
+Temp_converter is two cells. First create the temp_c variable asking the user what the temperature is, make it float, create the temp_f varible equal to temp_c multiplied by the conversion rate, and confirm the variables. Second make an if, elif, else logic chain. If temp is less than zero, suggest heavy winter clothes, else if temp is greater than or equal to zero and less than twenty, suggest a jacket, else suggest light clothing, finally if temp is less than fifteen "suggest an umbrella if its rainy today"
